@@ -1,6 +1,4 @@
-# DO RESEARCH AND DO CHANGES OR DELETE THIS REPO
-
-## Mongo Morph 🧬
+# Mongo Morph 🧬
 
 **Mongo Morph** is a **template repository** built for rapid backend development using **TypeScript + Node.js**. It includes a basic user authentication system with signup, login, and fetch-all-users functionality.
 
